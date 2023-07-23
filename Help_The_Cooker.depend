@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1689325098 source:d:\computer science\software engineering\projects\help_the_cooker\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+
+1685369145 source:d:\computer science\software engineering\projects\help_the_cooker\testing.cpp
+	<bits/stdc++.h>
+
+1685373546 source:d:\computer science\software engineering\projects\help_the_cooker\no name.cpp
+	<bits/stdc++.h>
+
+1689325001 source:d:\computer science\software engineering\projects\help_the_cooker\select_ingredient.cpp
+	<bits/stdc++.h>
+
+1689690001 source:d:\computer science\software engineering\projects\help_the_cooker\check_dish.cpp
+	<bits/stdc++.h>
+	<windows.h>
+
+1689178208 source:d:\computer science\software engineering\projects\help_the_cooker\repeat.cpp
+	<bits/stdc++.h>
+

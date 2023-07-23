@@ -1,0 +1,31 @@
+**********************************************
+List of Ingredient available in your kitchen:
+
+ 1.Potato
+
+ 2.Milk
+
+ 3.pea
+
+ 4.Rice
+
+ 5.Lemon
+
+ 6.Sugar
+
+ 7.Salt
+
+ 8.Egg
+
+ 9.Oil
+
+10.Chicken
+
+11.Masala(biriyani && normal)
+
+12.Butter
+
+13.Water
+**********************************************
+Press 0 after the selection of the ingredient
+**********************************************
